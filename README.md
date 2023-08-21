@@ -26,13 +26,7 @@ The data was collected as part of the National Lung Cancer Registry and is assoc
 16. **AGE**: Age at surgery - numeric.
 17. **Risk1Y (CLASS)**: 1-year survival period (boolean).
 
-## Usage
-
 This repository contains code for preprocessing the dataset, building classification models, and evaluating their performance. The main code files include:
-
-- `data_preprocessing.ipynb`: Data cleaning, transformation, and feature engineering.
-- `model_training.ipynb`: Building and training classification models.
-- `model_evaluation.ipynb`: Evaluating model performance and generating metrics.
 
 Feel free to contribute, open issues, and submit pull requests if you find any improvements or corrections.
 
